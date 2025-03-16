@@ -12,8 +12,15 @@ section{
 button{
     height: 40px;
     text-align: center;
+    background-color: blue;
+    border: none;
+    color: white;
 }
 button img{
     width: 35px;
     /* height: 12px; */
+    color: white;
+}
+span{
+    color: yellow;
 }
