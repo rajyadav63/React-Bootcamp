@@ -4,10 +4,10 @@ document.addEventListener("DOMContentLoaded", () => {
   const leftButton = document.getElementById("left-btn");
   const rightButton = document.getElementById("right-btn");
 
-  const totoalAppleCount = 10;
+  const totalAppleCount = 10;
 
   let rightBasketAppleCount = 0;
-  let leftBasketAppleCount = totoalAppleCount - rightBasketAppleCount;
+  let leftBasketAppleCount = totalAppleCount - rightBasketAppleCount;
 
   leftBasketCount.innerText = leftBasketAppleCount;
   rightBasketCount.innerText = rightBasketAppleCount;
