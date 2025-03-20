@@ -1,4 +1,4 @@
-# 🚀 React Bootcamp
+# 🚀 React BootCamp
 
 Welcome to **React BootCamp**! This repository contains React projects, exercises, and learning resources to help you master React.js efficiently.  
 
