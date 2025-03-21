@@ -6,7 +6,7 @@ import './App.css'
 function App() {
   const [amount, setAmount] = useState(0);
   const [from, setFrom] = useState("USD");
-  const [to, setTo] = useState("INR")
+  const [to, setTo] = useState("NPR")
   const [convertedAmount, setConvertedAmount] = useState(0);
 
   const currencyInfo = useCurrencyInfo(from)
