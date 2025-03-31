@@ -3,6 +3,7 @@ import { useRouteLoaderData } from 'react-router';
 
 function Github() {
     const data = useRouteLoaderData()
+    
     // const [data, setData] = useState({});
     // useEffect(() => {
     //     fetch('https://api.github.com/users/rajyadav63')
